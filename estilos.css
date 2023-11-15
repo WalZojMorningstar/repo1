@@ -1,0 +1,147 @@
+body{
+	background: gray;
+	font-family: Helvatica;
+}
+#container {
+	width: 70%;
+	margin: 0px auto;
+	margin: 10px auto;
+	border: 2px solid white;
+}
+header{
+	background: #393d42;
+	height: 100 px;
+	width: 100%;
+	margin: 0%;
+	border-top: 20px #393d42;
+	text-align: center; 
+	line-height: 100 px;
+	color: black;
+}
+
+nav{
+	background: black;
+	height: 70px;
+	text-align: center;
+	color: white;
+	
+text-align: center;
+line-height: 30px;
+}
+
+nav ul li{
+	float: left;
+	list-style: none;
+	margin: 10px;
+	
+}
+.clearfix{
+	clear: both;
+	
+}
+#content{
+	margin: 0px;
+float: left;
+background:  gray;
+width: 78.4%;
+min-height:100px;
+border-left:20px solid gray;
+}
+aside #ted{
+float: left;
+background: #084d6e;
+width: 10%;
+border-top:20px solid gray;
+text-align: center;
+line-height: 30px;
+height:35px;
+}
+aside #cv{
+	float: right;
+	text-align: center;
+	width: 50%;
+	height: auto;
+}
+#a1{
+	float: right;
+	background: black;
+	height:10px;;
+	
+}
+footer{
+	background:black;
+	color:white;
+	height:50px;
+	margin:10px;
+	text-align: center;
+	line-height:50px;
+}
+p{
+	
+	width:50%;
+	margin: 10px auto;
+	border: 2px solid white;
+	size: 50px;
+}
+h3{
+	color: lightblue;
+	text-align: left;
+}
+h2, h1{
+	text-align: center;
+}
+#Bb{
+	width: 100%;
+	margin: 10px auto;
+	border: 2px solid gray;
+}
+#cc{
+	width: 50%;
+	margin: 10px auto;
+	border: 2px solid gray;
+}	
+#math{
+	width:50%;
+	margin: 10px auto;
+	border: 2px solid gray;
+}
+#logan{
+	color: white;
+	margin: color black;
+}
+#ad{
+	color: green;
+}
+
+#ip{
+	background: green;
+	float: right;
+	border-top:20px solid gray;
+	text-align: center;
+	width: 20%;
+	height: auto;
+}
+#contt{
+	font-size: 20px;
+}
+#JyD{
+	width: 50%;
+	margin: 10px auto;
+	border: 2px solid gray;
+	text-align: center;
+}
+#bities, #jk{
+	text-align: center;
+}
+#ip2{
+
+	background: black;
+	float: left;
+
+width:20%;
+border-top:20px solid gray;
+text-align: center;
+line-height: 30px;
+height:350px;
+	
+}
